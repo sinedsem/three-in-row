@@ -8,4 +8,5 @@ public class Settings : MonoBehaviour
     public int cols = 10;
     public float cellSize = 0.5f;
     public float swapTime = 0.5f;
+    public float fallTime = 0.5f;
 }
